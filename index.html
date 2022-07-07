@@ -26,7 +26,7 @@
       <ul>
         <li><a href="#">Trang chủ</a></li>
         <li><a href="#">Thông Tin</a></li>
-        <li><a href="#">Học Tập</a></li>
+        <li><a href="index1.html">Học Tập</a></li>
         <li><a href="#">Liên Hệ</a></li>
       
       </ul>
